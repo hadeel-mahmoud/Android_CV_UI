@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="next">Next</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="objective">Objective</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_your_short_cv">Create your short CV</string>
+    <string name="gender">Gender</string>
+    <string name="finish">Finish</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="projects">Projects</string>
+
+    <string-array name="countries">
+        <item>Country</item>
+        <item>Palestine</item>
+        <item>Jordan</item>
+        <item>US</item>
+        <item>UK</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Australia</item>
+        <item>Pakistan</item>
+        <item>India</item>
+        <item>Syria</item>
+        <item>Lebanon</item>
+
+    </string-array>
+</resources>
